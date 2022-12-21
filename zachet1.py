@@ -4,7 +4,7 @@ from tkinter.messagebox import showerror, showwarning, showinfo
 
 root = Tk()
 root.title("Задача №7")
-root.geometry('400x250')
+root.geometry('550x250')
 
 label = Label(root, text="Добро пожаловать в приложение для доставки.") 
 label.pack(ipadx=60, ipady=15) 
